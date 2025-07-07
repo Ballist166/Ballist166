@@ -40,3 +40,9 @@
 - [Работа с базами данных](https://github.com/Ballist166/database) (MySQL, MongoBD, DBeaver)
 - [Тестирование мобильных приложений](https://github.com/Ballist166/mobile) (чек-листы, тест-кейсы, отчёты о дефектах)
 - [Работа с git и bash](https://github.com/Ballist166/git_bash) (работа с командами в Git Bash)
+
+## Сертификаты 
+- [Мои сертификаты](https://stepik.org/users/79336571/certificates)
+
+## Связь со мной 
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:antohatoropov166@yandex.ru)
