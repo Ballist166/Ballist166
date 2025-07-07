@@ -21,11 +21,17 @@
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
     <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+    <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" title="PSsql" alt="PSsql" width="40" height="40"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
     <img src="https://camo.githubusercontent.com/730e7031923407fef5960eef1c98a5b45027133eeef7d9f55f561a210e7b251c/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3931392f3931393832372e706e67" title="html" alt="html" width="40" height="40"/>&nbsp
+    <img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+    <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+
+
+
+    
   
 </div>
     
