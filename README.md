@@ -44,5 +44,11 @@
 ## Сертификаты 
 - [Мои сертификаты](https://stepik.org/users/79336571/certificates)
 
+## My CV
+- [Моё резюме на Google Диск](https://docs.google.com/document/d/1eNGu-eY0Khn8B8-ehf3ITE8bLrow--NT/edit?usp=drive_link&ouid=116434640476864961554&rtpof=true&sd=true)
+- [Моё резюме на Яндекс Диск](https://disk.yandex.ru/i/PyWbc-rHma7wCQ) 
+- [Моё резюме на GitHub](https://github.com/Ballist166/my_cv/blob/main/резюме%20Торопов%20Антон%20Сергеевич.doc)
+
+
 ## Связь со мной 
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:antohatoropov166@yandex.ru)
